@@ -97,4 +97,4 @@ Department of Artificial Intelligence and Data Science, BRACT's Vishwakarma Inst
 
 ## Data source
 
-Olist, "Brazilian E-Commerce Public Dataset by Olist," Kaggle.
+Olist, "Brazilian E-Commerce Public Dataset by Olist," Kaggle
